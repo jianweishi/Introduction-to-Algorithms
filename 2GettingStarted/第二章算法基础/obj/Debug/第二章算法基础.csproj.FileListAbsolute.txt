@@ -1,0 +1,12 @@
+C:\Users\建为\Documents\Visual Studio 2015\Projects\算法导论\第二章算法基础\第二章算法基础\bin\Debug\第二章算法基础.exe.config
+C:\Users\建为\Documents\Visual Studio 2015\Projects\算法导论\第二章算法基础\第二章算法基础\bin\Debug\第二章算法基础.exe
+C:\Users\建为\Documents\Visual Studio 2015\Projects\算法导论\第二章算法基础\第二章算法基础\bin\Debug\第二章算法基础.pdb
+C:\Users\建为\Documents\Visual Studio 2015\Projects\算法导论\第二章算法基础\第二章算法基础\obj\Debug\第二章算法基础.csprojResolveAssemblyReference.cache
+C:\Users\建为\Documents\Visual Studio 2015\Projects\算法导论\第二章算法基础\第二章算法基础\obj\Debug\第二章算法基础.exe
+C:\Users\建为\Documents\Visual Studio 2015\Projects\算法导论\第二章算法基础\第二章算法基础\obj\Debug\第二章算法基础.pdb
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第二章算法基础\第二章算法基础\bin\Debug\第二章算法基础.exe.config
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第二章算法基础\第二章算法基础\obj\Debug\第二章算法基础.exe
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第二章算法基础\第二章算法基础\obj\Debug\第二章算法基础.pdb
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第二章算法基础\第二章算法基础\bin\Debug\第二章算法基础.exe
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第二章算法基础\第二章算法基础\bin\Debug\第二章算法基础.pdb
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第二章算法基础\第二章算法基础\obj\Debug\第二章算法基础.csprojResolveAssemblyReference.cache

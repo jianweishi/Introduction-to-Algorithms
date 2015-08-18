@@ -1,0 +1,1 @@
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第四章分治策略\Division\Division\bin\Debug\Division.exe.config
