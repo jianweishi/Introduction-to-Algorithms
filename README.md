@@ -1,5 +1,4 @@
-[TOC]
-# 算法导论习题乱解
+# 算法导论习题乱解[here](#jump)
 C#代码托管于[github](http://github.com/jianweishi/Introduction-to-Algorithms "github托管项目")
 
 ----------
@@ -39,6 +38,7 @@ C#代码托管于[github](http://github.com/jianweishi/Introduction-to-Algorithm
 - 1.1-2  
  
     暴力求解伪代码：
+<span id="jump">here</span>
 
 
 	
