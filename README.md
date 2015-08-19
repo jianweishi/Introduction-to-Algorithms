@@ -39,6 +39,8 @@ C#代码托管于[github](http://github.com/jianweishi/Introduction-to-Algorithm
  
     暴力求解伪代码：
 <span id="jump">here</span>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 
 	
