@@ -1,1 +1,2 @@
 C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\算法导论\第四章分治策略\Division\Division\bin\Debug\Division.exe.config
+C:\Users\建为\Documents\Visual Studio 2015\Projects\C#\Introduction-to-Algorithms\4Divide-and-Conquer\Division\bin\Debug\Division.exe.config
